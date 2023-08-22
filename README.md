@@ -1,0 +1,2 @@
+# copypallete
+Copy pallete SOP
