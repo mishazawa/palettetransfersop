@@ -6,5 +6,7 @@ This node is looking similar colors from palette.
 
 If the second input is specified, this OP generate color ramp from `Cd` attribute. If no input is specified, then user can tweak color ramp manually.
 
+Based on distance between colors in CIELAB color space. [Compute similarity of colors](https://www.baeldung.com/cs/compute-similarity-of-colours)
+
 ## Output
 <img width="1189" alt="image" src="https://github.com/mishazawa/copypallete/assets/7611372/10f33630-3c98-48f9-8504-7768946588d6">
